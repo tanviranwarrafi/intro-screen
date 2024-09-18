@@ -1,4 +1,4 @@
-# Introduction Screen Flutter
+# Introduction Screen
 
 This project is for learning how to make introduction screen in Flutter App.
 
